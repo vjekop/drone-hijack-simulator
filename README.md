@@ -1,4 +1,4 @@
-# 🛸 Drone Hijack Simulator
+#  Drone Hijack Simulator
 
 > A Python-based virtual drone penetration testing simulator demonstrating real-world UAV communication attack vectors — built for educational and portfolio purposes.
 
